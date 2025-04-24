@@ -1,0 +1,10 @@
+{
+  "goalLiters": 2,
+  "cupVolumeMl": 250,
+  "totalCups": 8,
+  "initialFullCups": 0,
+  "user": {
+    "name": "Nihal",
+    "showFooter": true
+  }
+}
